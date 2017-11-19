@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VitaData</string>
+    <string name="press_the_heart">Presiones el corazón para continuar</string>
+    <string name="monitor_title">Monitoreo de signos vitales en tiempo real del paciente</string>
+    <string name="txt_tempeture_title">Sensor de temperatura</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="frecuencia_cardiaca">Frecuencia Cardiaca</string>
+    <string name="oxigeno_en_la_sangre">Oxigeno en la Sangre</string>
+    <string name="Back">Regresar</string>
+    <string name="dispositivos_vinculados">DISPOSITIVOS VINCULADOS</string>
+    <string name="dispositivos_escaneados">DISPOSITIVOS ENCONTRADOS</string>
+    <string name="Refresh">Buscar</string>
+    <string name="Historial">Historial</string>
+    <string name="Salir">Salir</string>
+    <string name="todo">TODO</string>
+</resources>
